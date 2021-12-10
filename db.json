@@ -1,8 +1,6 @@
 [
     {
-        "id": "1",
-        "date": "03/08/2021",
-        "   time": "9:01",
+        "time": "9:01",
         "Resource": "Fernando Bravo",
         "realWork": [
             {
@@ -14,10 +12,8 @@
         "text": "Explicacion del desvio 1"
     },
     {
-        "id": "2",
-        "date": "04/08/2021",
-        "   time": "9:01",
-        "Resource": "Fernando Bravito",
+        "time": "9:01",
+        "Resource": "Fernando Bravo",
         "realWork": [
             {
                 "date": "24/08/2021",
@@ -28,9 +24,7 @@
         "text": "Explicacion del desvio 2"
     },
     {
-        "id": "3",
-        "date": "05/08/2021",
-        "   time": "9:01",
+        "time": "9:01",
         "Resource": "Fernando Bravo",
         "realWork": [
             {
@@ -42,9 +36,7 @@
         "text": "Explicacion del desvio 3"
     },
     {
-        "id": "4",
-        "date": "06/08/2021",
-        "   time": "9:01",
+        "time": "9:01",
         "Resource": "Fernando Bravo",
         "realWork": [
             {
@@ -56,9 +48,7 @@
         "text": "Explicacion del desvio 4"
     },
     {
-        "id": "5",
-        "date": "07/08/2021",
-        "   time": "9:01",
+        "time": "9:01",
         "Resource": "Fernando Bravo",
         "realWork": [
             {
@@ -70,9 +60,7 @@
         "text": "Explicacion del desvio 5"
     },
     {
-        "id": "6",
-        "date": "08/08/2021",
-        "   time": "9:01",
+        "time": "9:01",
         "Resource": "Fernando Bravo",
         "realWork": [
             {
@@ -84,9 +72,7 @@
         "text": "Explicacion del desvio 6"
     },
     {
-        "id": "7",
-        "date": "09/08/2021",
-        "   time": "9:01",
+        "time": "9:01",
         "Resource": "Fernando Bravo",
         "realWork": [
             {
@@ -98,9 +84,7 @@
         "text": "Explicacion del desvio 7"
     },
     {
-        "id": "8",
-        "date": "10/08/2021",
-        "   time": "9:01",
+        "time": "9:01",
         "Resource": "Fernando Bravo",
         "realWork": [
             {
@@ -112,9 +96,7 @@
         "text": "Explicacion del desvio 8"
     },
     {
-        "id": "9",
-        "date": "11/08/2021",
-        "   time": "9:01",
+        "time": "9:01",
         "Resource": "Fernando Bravo",
         "realWork": [
             {
@@ -126,9 +108,7 @@
         "text": "Explicacion del desvio 9"
     },
     {
-        "id": "10",
-        "date": "12/08/2021",
-        "   time": "9:01",
+        "time": "9:01",
         "Resource": "Fernando Bravo",
         "realWork": [
             {
