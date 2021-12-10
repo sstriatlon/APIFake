@@ -2,120 +2,70 @@
     {
         "time": "9:01",
         "Resource": "Fernando Bravo",
-        "realWork": [
-            {
-                "date": "24/08/2021",
-                "hour": "10:00"
-            }
-        ],
+        "realWork": "24/08/2021 10:00",
         "reason": "Razon del desvio 1",
         "text": "Explicacion del desvio 1"
     },
     {
         "time": "9:01",
         "Resource": "Fernando Bravo",
-        "realWork": [
-            {
-                "date": "24/08/2021",
-                "hour": "10:00"
-            }
-        ],
+        "realWork": "24/08/2021 10:00",
         "reason": "Razon del desvio 2",
         "text": "Explicacion del desvio 2"
     },
     {
         "time": "9:01",
         "Resource": "Fernando Bravo",
-        "realWork": [
-            {
-                "date": "24/08/2021",
-                "hour": "10:00"
-            }
-        ],
+        "realWork": "24/08/2021 10:00",
         "reason": "Razon del desvio 3",
         "text": "Explicacion del desvio 3"
     },
     {
         "time": "9:01",
         "Resource": "Fernando Bravo",
-        "realWork": [
-            {
-                "date": "24/08/2021",
-                "hour": "10:00"
-            }
-        ],
+        "realWork": "24/08/2021 10:00",
         "reason": "Razon del desvio 4",
         "text": "Explicacion del desvio 4"
     },
     {
         "time": "9:01",
         "Resource": "Fernando Bravo",
-        "realWork": [
-            {
-                "date": "24/08/2021",
-                "hour": "10:00"
-            }
-        ],
+        "realWork": "24/08/2021 10:00",
         "reason": "Razon del desvio 5",
         "text": "Explicacion del desvio 5"
     },
     {
         "time": "9:01",
         "Resource": "Fernando Bravo",
-        "realWork": [
-            {
-                "date": "24/08/2021",
-                "hour": "10:00"
-            }
-        ],
+        "realWork": "24/08/2021 10:00",
         "reason": "Razon del desvio 6",
         "text": "Explicacion del desvio 6"
     },
     {
         "time": "9:01",
         "Resource": "Fernando Bravo",
-        "realWork": [
-            {
-                "date": "24/08/2021",
-                "hour": "10:00"
-            }
-        ],
+        "realWork": "24/08/2021 10:00",
         "reason": "Razon del desvio 7",
         "text": "Explicacion del desvio 7"
     },
     {
         "time": "9:01",
         "Resource": "Fernando Bravo",
-        "realWork": [
-            {
-                "date": "24/08/2021",
-                "hour": "10:00"
-            }
-        ],
+        "realWork": "24/08/2021 10:00",
         "reason": "Razon del desvio 8",
         "text": "Explicacion del desvio 8"
     },
     {
         "time": "9:01",
         "Resource": "Fernando Bravo",
-        "realWork": [
-            {
-                "date": "24/08/2021",
-                "hour": "10:00"
-            }
-        ],
+        "realWork": "24/08/2021 10:00",
         "reason": "Razon del desvio 9",
         "text": "Explicacion del desvio 9"
     },
     {
         "time": "9:01",
         "Resource": "Fernando Bravo",
-        "realWork": [
-            {
-                "date": "24/08/2021",
-                "hour": "10:00"
-            }
-        ],
+        "realWork": "24/08/2021 10:00",
         "reason": "Razon del desvio 10",
         "text": "Explicacion del desvio 10"
     }
